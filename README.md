@@ -8,7 +8,7 @@
 v0.10.3 sürümü şu anda Scroll Mainnet'te kullanılmaktadır. main dalının en son hali ise geliştirme için kullanılmaktadır
 
 ### Önkoşul
-Install Solidity compiler `solc` of version `0.8.19` via [svm-rs](https://github.com/alloy-rs/svm-rs):
+Solidity derleyicisi `solc` sürümünün `0.8.19` sürümünü yükleyin. [svm-rs](https://github.com/alloy-rs/svm-rs):
 ```shell
 cargo install svm-rs
 svm install 0.8.19
